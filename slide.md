@@ -1,31 +1,13 @@
 ---
 author: Eason Chai
-title: Test
+title: Online Slide
 ---
-# In the morning
+# Online Slide Show
+## For Eason Chai
 
-
-## Getting up
-
-- Turn off alarm
-- Get out of bed
-
-
-## Breakfast
-
-- Eat eggs
-- Drink coffee
+````
+echo "hello world"
+````
 ---
-
-# In the evening
-
-## Dinner
-
-- Eat spaghetti
-- Drink wine
-
-
-## Going to sleep
-
-- Get in bed
-- Count sheep
+# Forward to my Speech
+Eason Chai 
