@@ -1,5 +1,5 @@
 #!/bin/bash
 var=`date "+%Y-%m-%d %H:%M:%S"` 
 git add .
-git commit -m "${var}"
+git commit -a 
 git push origin master
